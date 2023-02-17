@@ -1,2 +1,2 @@
 print("THis is python!");
-Print("NewCommit1");
+print("NewCommit1");
